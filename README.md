@@ -36,12 +36,12 @@ Source code contained within open source repositories must include the following
 
 ```
 //
-// All Contributions by Match Group
+//  All Contributions by Match Group
 //
-// Copyright © <years> <brand> (Match Group, LLC)
+//  Copyright © <years> <brand> (Match Group, LLC)
 //
-// Licensed under the Match Group Modified 3-Clause BSD License.
-// See https://github.com/<organization>/<repository>/blob/main/LICENSE for license information.
+//  Licensed under the Match Group Modified 3-Clause BSD License.
+//  See https://github.com/<organization>/<repository>/blob/main/LICENSE for license information.
 //
 ```
 
@@ -51,11 +51,11 @@ Here is a Tinder brand example:
 
 ```
 //
-// All Contributions by Match Group
+//  All Contributions by Match Group
 //
-// Copyright © 2022-2023 Tinder (Match Group, LLC)
+//  Copyright © 2022-2023 Tinder (Match Group, LLC)
 //
-// Licensed under the Match Group Modified 3-Clause BSD License.
-// See https://github.com/Tinder/Example/blob/main/LICENSE for license information.
+//  Licensed under the Match Group Modified 3-Clause BSD License.
+//  See https://github.com/Tinder/Example/blob/main/LICENSE for license information.
 //
 ```
