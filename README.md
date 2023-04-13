@@ -23,10 +23,10 @@ Copy and paste the following text into the README of the open source repository:
 ```
 ## Contributing
 
-While interest in contributing to this project is appreciated, it has been open
-sourced solely for the purpose of sharing with the community. This means we are
-unable to accept outside contributions at this time and pull requests will not
-be reviewed or merged. To report a security concern or vulnerability, please
+While interest in contributing to this project is appreciated, it has been open 
+sourced solely for the purpose of sharing with the community. This means we are 
+unable to accept outside contributions at this time and pull requests will not 
+be reviewed or merged. To report a security concern or vulnerability, please 
 submit a GitHub issue.
 ```
 
