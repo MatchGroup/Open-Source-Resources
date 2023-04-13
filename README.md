@@ -32,7 +32,7 @@ submit a GitHub issue.
 
 ## Copyrights
 
-Source code contained within open source repositories must include the following copyright at the top of every file.
+Source code contained within open source repositories must include the following copyright notice at the top of every file.
 
 ```
 //
