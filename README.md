@@ -4,7 +4,7 @@ Resources for open source repositories of Match Group and Match Group brands.
 
 ## License
 
-All open source repositories must include a copy of the [LICENSE](https://github.com/MatchGroup/Open-Source-Resources/blob/main/README.md) stored in this repository.
+All open source repositories must include a copy of the [LICENSE](https://github.com/MatchGroup/Open-Source-Resources/blob/main/LICENSE) stored in this repository.
 
 Use the following command to copy the license into the open source repository:
 
