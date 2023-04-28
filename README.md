@@ -20,7 +20,15 @@ curl -O --output-dir <path> https://raw.githubusercontent.com/MatchGroup/Open-So
 
 __IMPORTANT AND REQUIRED__
 
-Manually replace `<year-of-publication>` in the copied license to the year that any code included in the project was first publicly available.
+Use the following command to replace `<year-of-publication>` in the copied license to the year that any code included in the project was first publicly available.
+
+```
+sed -i '' -e "s/<year-of-publication>/$(date +"%Y")/" <path>/LICENSE
+```
+
+> Replace `<path>` with the path to the open source repository.
+
+> The above command will set the year of publication to the current year. Replace `$(date +"%Y")` with a specific year to set it to an earlier year.
 
 ## Contribution Policy
 
